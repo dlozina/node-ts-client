@@ -1,7 +1,7 @@
 {
-  "name": "client-app",
+  "name": "client-ts-app",
   "version": "1.0.0",
-  "description": "Client that receives timestream data",
+  "description": "Client that gets timestream data",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
